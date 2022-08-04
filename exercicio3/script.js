@@ -21,3 +21,4 @@ ataques.push("nome: Investida, danos: 40, tipo: Normal, precisao: 100")
 
 console.log(ataques)
 
+//
